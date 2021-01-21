@@ -1,3 +1,6 @@
+搭建个人博客
+笔记地址：https://www.jianshu.com/p/97dfbc8e79db
+视频地址：https://www.bilibili.com/video/BV1dt4y1Q7UE
 ---
 title: Hello World
 ---
